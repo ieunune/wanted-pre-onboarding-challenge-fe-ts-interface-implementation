@@ -155,3 +155,22 @@ Todo {
 - 모든 할 일을 제거할 수 있다.
 - 특정 할 일의 특정 태그를 삭제할 수 있다.
 - 특정 할 일의 모든 태그를 제거할 수 있다.
+
+
+## 프로젝트 실행 방법
+
+### Install
+
+```bash
+npm install
+or
+yarn
+```
+
+### Build
+
+```bash
+npm run docs
+or
+yarn docs
+```
